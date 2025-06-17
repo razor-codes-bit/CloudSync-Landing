@@ -5,7 +5,7 @@ A professional, responsive SaaS landing page built with HTML, CSS, and JavaScrip
 ---
 
 ## 🚀 Live Demo  
-[👉 View the Live Site]([https://your-netlify-url.netlify.app](https://cloudsync-landing.netlify.app/))
+[👉 View the Live Site](https://cloudsync-landing.netlify.app/)
 
 ---
 
@@ -36,12 +36,19 @@ A professional, responsive SaaS landing page built with HTML, CSS, and JavaScrip
 ## 📁 Folder Structure
 
 /CloudSync-Landing/
+
 ├── index.html
+
 ├── style.css
+
 ├── /assets/
+
 │   ├── hero.svg
+
 │   ├── icon-backup.svg
+
 │   ├── client logos ...
+
 └── README.md
 
 ---
