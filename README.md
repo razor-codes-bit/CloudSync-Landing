@@ -5,9 +5,7 @@ A professional, responsive SaaS landing page built with HTML, CSS, and JavaScrip
 ---
 
 ## 🚀 Live Demo  
-[👉 View the Live Site](https://your-netlify-url.netlify.app)
-
-Replace this link with your Netlify URL after deployment.
+[👉 View the Live Site]([https://your-netlify-url.netlify.app](https://cloudsync-landing.netlify.app/))
 
 ---
 
@@ -57,5 +55,7 @@ Deployed using Netlify.
 ## 👨‍💻 Author
 Razor Coder
 Freelance web developer building clean, client-ready interfaces using modern front-end tech.
+
 Email: razorcodes.here@gmail.com
+
 Personal Portfolio: https://razorcoder-portfolio.netlify.app/
